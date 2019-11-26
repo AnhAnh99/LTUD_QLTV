@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace LTUD_QLTV.Properties
+namespace QuanLyThuVien.Properties
 {
 
 

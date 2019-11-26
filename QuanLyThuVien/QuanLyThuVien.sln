@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LTUD_QLTV", "LTUD_QLTV\LTUD_QLTV.csproj", "{0870E1A9-4E27-432D-8049-5D887036E93B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyThuVien", "QuanLyThuVien\QuanLyThuVien.csproj", "{67A83E47-8801-4034-94B6-03BBAC1EEC03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0870E1A9-4E27-432D-8049-5D887036E93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0870E1A9-4E27-432D-8049-5D887036E93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0870E1A9-4E27-432D-8049-5D887036E93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0870E1A9-4E27-432D-8049-5D887036E93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A83E47-8801-4034-94B6-03BBAC1EEC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A83E47-8801-4034-94B6-03BBAC1EEC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A83E47-8801-4034-94B6-03BBAC1EEC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A83E47-8801-4034-94B6-03BBAC1EEC03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

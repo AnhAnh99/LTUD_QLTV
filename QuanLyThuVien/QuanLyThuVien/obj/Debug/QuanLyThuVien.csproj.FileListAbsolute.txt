@@ -1,0 +1,10 @@
+E:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BanDoc.resources
+E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMain.resources

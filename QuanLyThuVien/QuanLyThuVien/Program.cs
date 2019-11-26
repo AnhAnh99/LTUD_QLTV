@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LTUD_QLTV
+namespace QuanLyThuVien
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace LTUD_QLTV
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Main());
+            Application.Run(new frmMain());
         }
     }
 }

@@ -8,18 +8,19 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace LTUD_QLTV
+namespace QuanLyThuVien
 {
-    public partial class Main : Form
+    public partial class frmMain : Form
     {
-        public Main()
+        public frmMain()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void thôngTinBạnĐọcToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            BanDoc bandoc = new BanDoc();
+            bandoc.ShowDialog();
         }
     }
 }

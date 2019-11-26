@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LTUD_QLTV")]
+[assembly: AssemblyTitle("QuanLyThuVien")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LTUD_QLTV")]
+[assembly: AssemblyProduct("QuanLyThuVien")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0870e1a9-4e27-432d-8049-5d887036e93b")]
+[assembly: Guid("67a83e47-8801-4034-94b6-03bbac1eec03")]
 
 // Version information for an assembly consists of the following four values:
 //

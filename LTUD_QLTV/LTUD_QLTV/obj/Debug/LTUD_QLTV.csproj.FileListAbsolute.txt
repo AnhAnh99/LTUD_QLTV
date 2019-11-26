@@ -1,9 +1,0 @@
-c:\users\computer\documents\visual studio 2015\Projects\LTUD_QLTV\LTUD_QLTV\bin\Debug\LTUD_QLTV.exe.config
-c:\users\computer\documents\visual studio 2015\Projects\LTUD_QLTV\LTUD_QLTV\bin\Debug\LTUD_QLTV.exe
-c:\users\computer\documents\visual studio 2015\Projects\LTUD_QLTV\LTUD_QLTV\bin\Debug\LTUD_QLTV.pdb
-c:\users\computer\documents\visual studio 2015\Projects\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.csprojResolveAssemblyReference.cache
-c:\users\computer\documents\visual studio 2015\Projects\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.Form1.resources
-c:\users\computer\documents\visual studio 2015\Projects\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.Properties.Resources.resources
-c:\users\computer\documents\visual studio 2015\Projects\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.csproj.GenerateResource.Cache
-c:\users\computer\documents\visual studio 2015\Projects\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.exe
-c:\users\computer\documents\visual studio 2015\Projects\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.pdb

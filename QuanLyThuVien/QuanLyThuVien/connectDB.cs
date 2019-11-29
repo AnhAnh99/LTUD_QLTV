@@ -12,26 +12,20 @@ namespace QuanLyThuVien
     {
       
         //Kết nối SQL
-        SqlConnection connect = new SqlConnection(@"Data Source=DESKTOP-9OUV00A\SQLEXPRESS;Initial Catalog=QLTV;Integrated Security=True");
+        SqlConnection connect = new SqlConnection(@"Data Source=DESKTOP-9OUV00A\SQLEXPRESS;Initial Catalog=QuanLyThuVien;Integrated Security=True");
         //kai bao dataTable
         DataTable dt; // 3
 
         //Load
         public void loadBD(DataGridView _dvgBanDoc)
         {
-            //try-catch-finnaly
-            //try: if
-            //catch: tb lỗi k kết nối
-            //finally: đóng kết nối
             try
             {
                 if (connect.State == ConnectionState.Closed) //đóng
                 {
                     connect.Open(); //mở
                     string sql = "SP_LOAD_KHACHHANG"; //kb csdl
-                    SqlCommand command = new SqlCommand(sql, connect); //command kb
-                    //xoa từ đây
-                    //  command.CommandType = CommandType.StoredProcedure; //commandType
+                    SqlCommand command = new SqlCommand(sql, connect); //command kb                  
                     SqlDataAdapter data = new SqlDataAdapter(command); //dataapter kb
                     dt = new DataTable(); //kb
                     data.Fill(dt); // ap.fill(taple) 1
@@ -47,13 +41,9 @@ namespace QuanLyThuVien
                 connect.Close(); // đóng
             }
         }
-
-        //Thêm sách vào thư viện
+        //Thêm 
         public void themBD(string maBD, string tenBD, string diaChi, string soDienThoai, string ngayMuon,string ngayTra)        {
-            //try-catch-finnaly
-            //try: if
-            //catch: tb lỗi k kết nối
-            //finally: đóng kết nối
+           
             try
             {
                 if (connect.State == ConnectionState.Closed)
@@ -84,8 +74,7 @@ namespace QuanLyThuVien
                 connect.Close();
             }
         }
-
-        //Xóa danh sách
+        //Xóa 
         public void xoaBD(string maBD)
         {
             try
@@ -143,34 +132,22 @@ namespace QuanLyThuVien
             }
         }
         //tìm kiếm
-        public void timKiemBD(string maBD)
+        public DataTable timKiemBD(string chuoiTimKiem)
         {
-
-            //try-catch-finnaly
-            //try: if
-            //catch: tb lỗi k kết nối
-            //finally: đóng kết nối
             try
             {
-                if (connect.State == ConnectionState.Closed) 
-                {
-                    connect.Open(); //mở
-                    string sql = "SP_TIMKIEM_KHACHHANG";
-                    SqlCommand command = new SqlCommand(sql, connect); 
-                    command.CommandType = CommandType.StoredProcedure;
-                    command.Parameters.Add(new SqlParameter("MaKhachHang", SqlDbType.NVarChar)).Value = maBD;
+                SqlCommand sqlCommand = new SqlCommand("SP_TIMKIEM_KHACH_HANG", connect);
+                sqlCommand.CommandType = CommandType.StoredProcedure;
+                sqlCommand.Parameters.AddWithValue("@MaKhachHang", chuoiTimKiem);
 
-                    command.ExecuteNonQuery();
-
-                }
+                DataTable dtTable = new DataTable();
+                SqlDataAdapter dtAdapter = new SqlDataAdapter(sqlCommand);
+                dtAdapter.Fill(dtTable);
+                return dtTable;
             }
             catch (SqlException ex)
             {
-                MessageBox.Show("Lỗi " + ex.Message); // lỗi
-            }
-            finally
-            {
-                connect.Close(); // đóng
+                throw ex;
             }
         }
     }

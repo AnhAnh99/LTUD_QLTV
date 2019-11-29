@@ -35,6 +35,7 @@
             this.quảnLýToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thôngTinBạnĐọcToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.thôngTinSáchToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.timKiếmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -42,7 +43,8 @@
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.hệThốngToolStripMenuItem,
-            this.quảnLýToolStripMenuItem});
+            this.quảnLýToolStripMenuItem,
+            this.timKiếmToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(761, 24);
@@ -91,6 +93,13 @@
             this.thôngTinSáchToolStripMenuItem.Name = "thôngTinSáchToolStripMenuItem";
             this.thôngTinSáchToolStripMenuItem.Size = new System.Drawing.Size(173, 22);
             this.thôngTinSáchToolStripMenuItem.Text = "Thông tin Sách";
+            this.thôngTinSáchToolStripMenuItem.Click += new System.EventHandler(this.thôngTinSáchToolStripMenuItem_Click);
+            // 
+            // timKiếmToolStripMenuItem
+            // 
+            this.timKiếmToolStripMenuItem.Name = "timKiếmToolStripMenuItem";
+            this.timKiếmToolStripMenuItem.Size = new System.Drawing.Size(69, 20);
+            this.timKiếmToolStripMenuItem.Text = "Tim kiếm";
             // 
             // frmMain
             // 
@@ -120,6 +129,7 @@
         private System.Windows.Forms.ToolStripMenuItem quảnLýToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem thôngTinBạnĐọcToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem thôngTinSáchToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem timKiếmToolStripMenuItem;
     }
 }
 

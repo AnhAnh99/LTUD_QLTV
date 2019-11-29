@@ -22,5 +22,11 @@ namespace QuanLyThuVien
             BanDoc bandoc = new BanDoc();
             bandoc.ShowDialog();
         }
+
+        private void thôngTinSáchToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmSach s = new frmSach();
+            s.ShowDialog();
+        }
     }
 }

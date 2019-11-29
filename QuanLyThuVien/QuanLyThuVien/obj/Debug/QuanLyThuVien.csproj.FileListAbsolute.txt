@@ -9,3 +9,17 @@ E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
 E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
 E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMain.resources
 E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmSach.resources
+E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMuonSach.resources
+E:\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmPhieuMuon.resources
+C:\Users\COMPUTER\Documents\GitHub\LTUD_QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+C:\Users\COMPUTER\Documents\GitHub\LTUD_QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+C:\Users\COMPUTER\Documents\GitHub\LTUD_QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+C:\Users\COMPUTER\Documents\GitHub\LTUD_QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+C:\Users\COMPUTER\Documents\GitHub\LTUD_QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.BanDoc.resources
+C:\Users\COMPUTER\Documents\GitHub\LTUD_QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmMain.resources
+C:\Users\COMPUTER\Documents\GitHub\LTUD_QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmPhieuMuon.resources
+C:\Users\COMPUTER\Documents\GitHub\LTUD_QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.frmSach.resources
+C:\Users\COMPUTER\Documents\GitHub\LTUD_QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+C:\Users\COMPUTER\Documents\GitHub\LTUD_QLTV\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+C:\Users\COMPUTER\Documents\GitHub\LTUD_QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+C:\Users\COMPUTER\Documents\GitHub\LTUD_QLTV\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb

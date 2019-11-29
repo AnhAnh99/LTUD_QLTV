@@ -16,6 +16,11 @@ namespace QuanLyThuVien
         //kai bao dataTable
         DataTable dt; // 3
 
+        internal object loadPM()
+        {
+            throw new NotImplementedException();
+        }
+
         /// <summary>
         /// BẠN ĐỌC
         /// </summary>
@@ -271,6 +276,132 @@ namespace QuanLyThuVien
                 conn.Close();
             }
         }
+
+
+        /// <summary>
+        ///PHIẾU MƯỢN
+        /// </summary>
+        /// <param name="_dvgPhieuMuon"></param>
+        public void loadPM(DataGridView _dvgPhieuMuon)
+        {
+            try
+            {
+                if (conn.State == ConnectionState.Closed) //đóng
+                {
+                    conn.Open(); //mở
+                    string sql = "SP_LOAD_MUONSACH"; //kb csdl
+                    SqlCommand command = new SqlCommand(sql, conn); //command kb                  
+                    SqlDataAdapter data = new SqlDataAdapter(command); //dataapter kb
+                    dt = new DataTable(); //kb
+                    data.Fill(dt); // ap.fill(taple) 1
+                    _dvgPhieuMuon.DataSource = dt; //dgv.soure = table
+                }
+            }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Lỗi " + ex.Message); // lỗi
+            }
+            finally
+            {
+                conn.Close(); // đóng
+            }
+        }
+
+        public void themPM(string maPM, string maBD, string tenBD, string maSach, string tenSach,
+            string ngayMuon, string ngayTra)
+        {
+            try
+            {
+                if (conn.State == ConnectionState.Closed)
+                {
+                    conn.Open();
+                    string sql = "SP_THEM_MUONSACH";
+                    SqlCommand command = new SqlCommand(sql, conn);
+                    command.CommandType = CommandType.StoredProcedure;
+
+                    //Thêm
+                    command.Parameters.Add(new SqlParameter("MaMuonSach", SqlDbType.NVarChar)).Value = maPM;
+                    command.Parameters.Add(new SqlParameter("MaKhachHang", SqlDbType.NVarChar)).Value = maBD;
+                    command.Parameters.Add(new SqlParameter("TenKhachHang", SqlDbType.NVarChar)).Value = tenBD;
+                    command.Parameters.Add(new SqlParameter("MaSach", SqlDbType.NVarChar)).Value = maSach;
+                    command.Parameters.Add(new SqlParameter("TenSach", SqlDbType.NVarChar)).Value = tenSach;
+                    command.Parameters.Add(new SqlParameter("NgayMuonSach", SqlDbType.NVarChar)).Value = ngayMuon;
+                    command.Parameters.Add(new SqlParameter("NgayHenTra", SqlDbType.NVarChar)).Value = ngayTra;
+
+                    command.ExecuteNonQuery(); //thực thi
+
+                }
+            }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Lỗi " + ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
+
+        //Xóa 
+        public void xoaPM(string ma)
+        {
+            try
+            {
+                if (conn.State == ConnectionState.Closed)
+                {
+                    conn.Open();
+                    string sql = "SP_XOA_MUONSACH";
+                    SqlCommand command = new SqlCommand(sql, conn);
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.Add(new SqlParameter("MaMuonSach", SqlDbType.NVarChar)).Value = ma;
+
+                    command.ExecuteNonQuery();
+                }
+            }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Lỗi " + ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
+        //Sưa
+        public void suaPM(string maPM, string maBD, string tenBD, string maSach, string tenSach,
+            string ngayMuon, string ngayTra)
+        {
+
+            try
+            {
+                if (conn.State == ConnectionState.Closed)
+                {
+                    conn.Open();
+                    string sql = "SP_SUA_MUONSACH";
+                    SqlCommand command = new SqlCommand(sql, conn);
+                    command.CommandType = CommandType.StoredProcedure;
+                    command.Parameters.Add(new SqlParameter("MaMuonSach", SqlDbType.NVarChar)).Value = maPM;
+                    command.Parameters.Add(new SqlParameter("MaKhachHang", SqlDbType.NVarChar)).Value = maBD;
+                    command.Parameters.Add(new SqlParameter("TenKhachHang", SqlDbType.NVarChar)).Value = tenBD;
+                    command.Parameters.Add(new SqlParameter("MaSach", SqlDbType.NVarChar)).Value = maSach;
+                    command.Parameters.Add(new SqlParameter("TenSach", SqlDbType.NVarChar)).Value = tenSach;
+                    command.Parameters.Add(new SqlParameter("NgayMuonSach", SqlDbType.NVarChar)).Value = ngayMuon;
+                    command.Parameters.Add(new SqlParameter("NgayHenTra", SqlDbType.NVarChar)).Value = ngayTra;
+                    command.ExecuteNonQuery();
+                }
+            }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Lỗi " + ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
+
+
+
 
     }
 }

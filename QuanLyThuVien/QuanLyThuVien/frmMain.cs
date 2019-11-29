@@ -28,5 +28,11 @@ namespace QuanLyThuVien
             frmSach s = new frmSach();
             s.ShowDialog();
         }
+
+        private void phiếuMượnToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmPhieuMuon pm = new frmPhieuMuon();
+            pm.ShowDialog();
+        }
     }
 }

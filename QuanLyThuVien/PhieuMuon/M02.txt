@@ -1,0 +1,22 @@
+﻿PHIẾU MƯỢN
+Mã phiếu mượn: M02
+Mã bạn đọc: KH1002
+Tên bạn đọc: Nguyễn Văn B
+Mã sách: S124
+Tên sách: Lập Trình Di động
+Ngày mượn: 12/7/2018
+Ngày trả: 12/1/2018
+Nhân viên: Anh
+----------------------------
+
+PHIẾU MƯỢN
+Mã phiếu mượn: M02
+Mã bạn đọc: KH1002
+Tên bạn đọc: Nguyễn Văn B
+Mã sách: S124
+Tên sách: Lập Trình Di động
+Ngày mượn: 12/7/2018
+Ngày trả: 12/1/2018
+Nhân viên: Anh
+----------------------------
+

@@ -1,0 +1,11 @@
+﻿PHIẾU MƯỢN
+Mã phiếu mượn: 12347
+Mã bạn đọc: KH1002
+Tên bạn đọc: Nguyễn Văn B
+Mã sách: S124
+Tên sách: Lập Trình Di động
+Ngày mượn: 6/27/2018
+Ngày trả: 6/19/2018
+Nhân viên: Anh
+----------------------------
+

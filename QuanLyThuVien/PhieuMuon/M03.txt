@@ -1,0 +1,11 @@
+﻿PHIẾU MƯỢN
+Mã phiếu mượn: M03
+Mã bạn đọc: KH1003
+Tên bạn đọc: Nguyễn Văn C
+Mã sách: S125
+Tên sách: Lập trình ứng dụng
+Ngày mượn: 9/7/2018
+Ngày trả: 9/1/2018
+Nhân viên: Anh nè
+----------------------------
+

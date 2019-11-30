@@ -48,6 +48,7 @@
             this.btnXoa = new System.Windows.Forms.Button();
             this.btnSua = new System.Windows.Forms.Button();
             this.btnThem = new System.Windows.Forms.Button();
+            this.btnNhapMoi = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dvgBanDoc)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -174,6 +175,7 @@
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.btnNhapMoi);
             this.groupBox1.Controls.Add(this.btnThoat);
             this.groupBox1.Controls.Add(this.btnTimKiem);
             this.groupBox1.Controls.Add(this.btnXoa);
@@ -181,13 +183,13 @@
             this.groupBox1.Controls.Add(this.btnThem);
             this.groupBox1.Location = new System.Drawing.Point(651, 40);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(113, 180);
+            this.groupBox1.Size = new System.Drawing.Size(113, 194);
             this.groupBox1.TabIndex = 14;
             this.groupBox1.TabStop = false;
             // 
             // btnThoat
             // 
-            this.btnThoat.Location = new System.Drawing.Point(21, 138);
+            this.btnThoat.Location = new System.Drawing.Point(20, 160);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(75, 23);
             this.btnThoat.TabIndex = 4;
@@ -196,7 +198,7 @@
             // 
             // btnTimKiem
             // 
-            this.btnTimKiem.Location = new System.Drawing.Point(21, 79);
+            this.btnTimKiem.Location = new System.Drawing.Point(20, 73);
             this.btnTimKiem.Name = "btnTimKiem";
             this.btnTimKiem.Size = new System.Drawing.Size(75, 23);
             this.btnTimKiem.TabIndex = 3;
@@ -206,7 +208,7 @@
             // 
             // btnXoa
             // 
-            this.btnXoa.Location = new System.Drawing.Point(21, 108);
+            this.btnXoa.Location = new System.Drawing.Point(20, 102);
             this.btnXoa.Name = "btnXoa";
             this.btnXoa.Size = new System.Drawing.Size(75, 23);
             this.btnXoa.TabIndex = 2;
@@ -216,7 +218,7 @@
             // 
             // btnSua
             // 
-            this.btnSua.Location = new System.Drawing.Point(21, 50);
+            this.btnSua.Location = new System.Drawing.Point(20, 44);
             this.btnSua.Name = "btnSua";
             this.btnSua.Size = new System.Drawing.Size(75, 23);
             this.btnSua.TabIndex = 1;
@@ -226,13 +228,23 @@
             // 
             // btnThem
             // 
-            this.btnThem.Location = new System.Drawing.Point(21, 21);
+            this.btnThem.Location = new System.Drawing.Point(20, 15);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(75, 23);
             this.btnThem.TabIndex = 0;
             this.btnThem.Text = "Thêm";
             this.btnThem.UseVisualStyleBackColor = true;
             this.btnThem.Click += new System.EventHandler(this.btnThem_Click);
+            // 
+            // btnNhapMoi
+            // 
+            this.btnNhapMoi.Location = new System.Drawing.Point(20, 131);
+            this.btnNhapMoi.Name = "btnNhapMoi";
+            this.btnNhapMoi.Size = new System.Drawing.Size(75, 23);
+            this.btnNhapMoi.TabIndex = 15;
+            this.btnNhapMoi.Text = "Nhập Mới";
+            this.btnNhapMoi.UseVisualStyleBackColor = true;
+            this.btnNhapMoi.Click += new System.EventHandler(this.btnNhapMoi_Click);
             // 
             // BanDoc
             // 
@@ -287,5 +299,6 @@
         private System.Windows.Forms.Button btnXoa;
         private System.Windows.Forms.Button btnSua;
         private System.Windows.Forms.Button btnThem;
+        private System.Windows.Forms.Button btnNhapMoi;
     }
 }

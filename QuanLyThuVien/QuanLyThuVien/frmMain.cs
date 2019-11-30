@@ -34,5 +34,10 @@ namespace QuanLyThuVien
             frmPhieuMuon pm = new frmPhieuMuon();
             pm.ShowDialog();
         }
+
+        private void thoátToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

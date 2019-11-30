@@ -1,0 +1,11 @@
+﻿PHIẾU MƯỢN
+Mã phiếu mượn: 123
+Mã bạn đọc: KH1004
+Tên bạn đọc: Nguyễn Văn D
+Mã sách: 123
+Tên sách: Anh nè
+Ngày mượn: 6/7/2018
+Ngày trả: 6/1/2018
+Nhân viên: Anh đây
+----------------------------
+

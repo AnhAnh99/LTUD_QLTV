@@ -99,8 +99,12 @@ namespace QuanLyThuVien
             txtSoDienThoai.Text = dvgBanDoc.CurrentRow.Cells[2].Value.ToString();
             txtDiaChi.Text = dvgBanDoc.CurrentRow.Cells[3].Value.ToString();
             dtpNgayMuon.Text = dvgBanDoc.CurrentRow.Cells[4].Value.ToString();
-            dtpNgayHetHan.Text = dvgBanDoc.CurrentRow.Cells[5].Value.ToString();
-           
+            dtpNgayHetHan.Text = dvgBanDoc.CurrentRow.Cells[5].Value.ToString();         
+        }
+
+        private void btnNhapMoi_Click(object sender, EventArgs e)
+        {
+            resetText();
         }
     }
 }

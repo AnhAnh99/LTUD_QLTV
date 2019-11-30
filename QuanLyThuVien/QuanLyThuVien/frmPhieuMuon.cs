@@ -22,7 +22,12 @@ namespace QuanLyThuVien
         {
             conn.loadPM(this.dgvPM);
         }
-        
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            frmMuonSach ms = new frmMuonSach();
+            ms.ShowDialog();
+        }
+
         private void frmPhieuMuon_FormClosing(object sender, FormClosingEventArgs e)
         {
             DialogResult r =
@@ -119,8 +124,7 @@ namespace QuanLyThuVien
                     sw.WriteLine("----------------------------\n");
                     sw.Flush();
                     sw.Close();
-                    MessageBox.Show("In thành công!");
-
+                   
                 }
             }
             catch (Exception ex)

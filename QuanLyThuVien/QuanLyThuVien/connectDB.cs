@@ -10,7 +10,7 @@ namespace QuanLyThuVien
 {
     class connectDB
     {
-      
+
         //Kết nối SQL
         SqlConnection conn = new SqlConnection(@"Data Source=DESKTOP-9OUV00A\SQLEXPRESS;Initial Catalog=QuanLyThuVien;Integrated Security=True");
         //kai bao dataTable
@@ -51,8 +51,9 @@ namespace QuanLyThuVien
             }
         }
         //Thêm 
-        public void themBD(string maBD, string tenBD, string diaChi, string soDienThoai, string ngayMuon,string ngayTra)        {
-           
+        public void themBD(string maBD, string tenBD, string diaChi, string soDienThoai, string ngayMuon, string ngayTra)
+        {
+
             try
             {
                 if (conn.State == ConnectionState.Closed)
@@ -282,6 +283,8 @@ namespace QuanLyThuVien
         ///PHIẾU MƯỢN
         /// </summary>
         /// <param name="_dvgPhieuMuon"></param>
+        /// 
+        //load
         public void loadPM(DataGridView _dvgPhieuMuon)
         {
             try
@@ -306,7 +309,7 @@ namespace QuanLyThuVien
                 conn.Close(); // đóng
             }
         }
-
+        //them
         public void themPM(string maPM, string maBD, string tenBD, string maSach, string tenSach,
             string ngayMuon, string ngayTra)
         {
@@ -341,7 +344,6 @@ namespace QuanLyThuVien
                 conn.Close();
             }
         }
-
         //Xóa 
         public void xoaPM(string ma)
         {
@@ -401,7 +403,20 @@ namespace QuanLyThuVien
         }
 
 
-
+        /// <summary>
+        /// NHÂN VIÊN
+        /// </summary>
+        /// <returns></returns>
+        //load 
+        public DataTable loadNhanVien()
+        {
+            DataTable dtTable = new DataTable();
+            SqlCommand sqlCom = new SqlCommand("SP_LOAD_NHANVIEN", conn);
+            sqlCom.CommandType = CommandType.StoredProcedure;
+            SqlDataAdapter dtAdapter = new SqlDataAdapter(sqlCom);
+            dtAdapter.Fill(dtTable);
+            return dtTable;
+        }
 
     }
 }

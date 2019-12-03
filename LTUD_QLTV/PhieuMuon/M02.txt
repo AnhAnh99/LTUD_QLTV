@@ -1,0 +1,8 @@
+﻿			PHIẾU MƯỢN
+	Mã phiếu mượn: M02
+	Tên bạn đọc: Nguyễn Văn B
+	Tên sách: Lập Trình Di động
+	Ngày mượn: Sunday, December 01, 2019
+	Ngày trả: Saturday, December 07, 2019
+----------------------------
+

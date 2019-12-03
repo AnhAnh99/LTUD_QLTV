@@ -1,0 +1,17 @@
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.csprojResolveAssemblyReference.cache
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.DangKy.resources
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.DangNhap.resources
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.GiaoDien.resources
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.LoaiSach.resources
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.Properties.Resources.resources
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.QuanLyMuonSach.resources
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.QuanLyNhanVien.resources
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.QuanLySach.resources
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.TacGia.resources
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.TheKhachHang.resources
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.TraSach.resources
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.csproj.GenerateResource.Cache
+D:\LTUD_QLTV\LTUD_QLTV\bin\Debug\LTUD_QLTV.exe
+D:\LTUD_QLTV\LTUD_QLTV\bin\Debug\LTUD_QLTV.pdb
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.exe
+D:\LTUD_QLTV\LTUD_QLTV\obj\Debug\LTUD_QLTV.pdb

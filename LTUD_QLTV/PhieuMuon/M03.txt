@@ -1,0 +1,24 @@
+﻿PHIẾU MƯỢN
+Mã phiếu mượn: M03
+Tên bạn đọc: Nguyễn Văn C
+Tên sách: Lập trình ứng dụng
+Ngày mượn: Sunday, September 01, 2019
+Ngày trả: Saturday, September 07, 2019
+----------------------------
+
+PHIẾU MƯỢN
+Mã phiếu mượn: M03
+Tên bạn đọc: Nguyễn Văn C
+Tên sách: Lập trình ứng dụng
+Ngày mượn: Sunday, September 01, 2019
+Ngày trả: Saturday, September 07, 2019
+----------------------------
+
+	PHIẾU MƯỢN
+Mã phiếu mượn: M03
+Tên bạn đọc: Nguyễn Văn C
+Tên sách: Lập trình ứng dụng
+Ngày mượn: Sunday, September 01, 2019
+Ngày trả: Saturday, September 07, 2019
+----------------------------
+

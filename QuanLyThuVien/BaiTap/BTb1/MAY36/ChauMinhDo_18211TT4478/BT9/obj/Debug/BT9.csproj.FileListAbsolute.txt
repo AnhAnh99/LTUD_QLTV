@@ -1,0 +1,8 @@
+D:\ChauMinhDo_KTUD\BT6\BT9\bin\Debug\BT9.exe
+D:\ChauMinhDo_KTUD\BT6\BT9\bin\Debug\BT9.pdb
+D:\ChauMinhDo_KTUD\BT6\BT9\obj\Debug\BT9.exe
+D:\ChauMinhDo_KTUD\BT6\BT9\obj\Debug\BT9.pdb
+D:\ChauMinhDo_KTUD\BT9\obj\Debug\BT9.exe
+D:\ChauMinhDo_KTUD\BT9\obj\Debug\BT9.pdb
+G:\ChauMinhDo_18211TT4478\BT9\obj\Debug\BT9.exe
+G:\ChauMinhDo_18211TT4478\BT9\obj\Debug\BT9.pdb

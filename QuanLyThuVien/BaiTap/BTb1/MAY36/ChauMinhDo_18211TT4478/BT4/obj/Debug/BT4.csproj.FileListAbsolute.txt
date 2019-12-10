@@ -1,0 +1,4 @@
+D:\ChauMinhDo_KTUD\BT2\BT4\bin\Debug\BT4.exe
+D:\ChauMinhDo_KTUD\BT2\BT4\bin\Debug\BT4.pdb
+D:\ChauMinhDo_KTUD\BT2\BT4\obj\Debug\BT4.exe
+D:\ChauMinhDo_KTUD\BT2\BT4\obj\Debug\BT4.pdb

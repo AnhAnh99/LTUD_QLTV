@@ -1,0 +1,5 @@
+D:\AnhNe\AnhNe\bin\Debug\AnhNe.exe
+D:\AnhNe\AnhNe\bin\Debug\AnhNe.pdb
+D:\AnhNe\AnhNe\obj\Debug\AnhNe.csprojResolveAssemblyReference.cache
+D:\AnhNe\AnhNe\obj\Debug\AnhNe.exe
+D:\AnhNe\AnhNe\obj\Debug\AnhNe.pdb

@@ -1,0 +1,5 @@
+D:\baitap\cau3\bin\Debug\cau3.exe
+D:\baitap\cau3\bin\Debug\cau3.pdb
+D:\baitap\cau3\obj\Debug\cau3.csprojResolveAssemblyReference.cache
+D:\baitap\cau3\obj\Debug\cau3.exe
+D:\baitap\cau3\obj\Debug\cau3.pdb

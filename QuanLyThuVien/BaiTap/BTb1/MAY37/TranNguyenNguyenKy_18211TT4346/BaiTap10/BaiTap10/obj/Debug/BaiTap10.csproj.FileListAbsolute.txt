@@ -1,0 +1,4 @@
+D:\LTUD_B1_Ky\BaiTap10\BaiTap10\bin\Debug\BaiTap10.exe
+D:\LTUD_B1_Ky\BaiTap10\BaiTap10\bin\Debug\BaiTap10.pdb
+D:\LTUD_B1_Ky\BaiTap10\BaiTap10\obj\Debug\BaiTap10.exe
+D:\LTUD_B1_Ky\BaiTap10\BaiTap10\obj\Debug\BaiTap10.pdb

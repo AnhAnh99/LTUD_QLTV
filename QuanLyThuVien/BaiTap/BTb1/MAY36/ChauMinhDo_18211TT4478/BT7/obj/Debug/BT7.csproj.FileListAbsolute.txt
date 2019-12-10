@@ -1,0 +1,5 @@
+D:\ChauMinhDo_KTUD\BT7\bin\Debug\BT7.exe
+D:\ChauMinhDo_KTUD\BT7\bin\Debug\BT7.pdb
+D:\ChauMinhDo_KTUD\BT7\obj\Debug\BT7.csprojResolveAssemblyReference.cache
+D:\ChauMinhDo_KTUD\BT7\obj\Debug\BT7.exe
+D:\ChauMinhDo_KTUD\BT7\obj\Debug\BT7.pdb

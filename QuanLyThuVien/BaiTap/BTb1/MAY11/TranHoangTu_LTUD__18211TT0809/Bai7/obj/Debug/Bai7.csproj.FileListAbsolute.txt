@@ -1,0 +1,4 @@
+D:\TranHoangTu_LTUD_B1\Bai7\bin\Debug\Bai7.exe
+D:\TranHoangTu_LTUD_B1\Bai7\bin\Debug\Bai7.pdb
+D:\TranHoangTu_LTUD_B1\Bai7\obj\Debug\Bai7.exe
+D:\TranHoangTu_LTUD_B1\Bai7\obj\Debug\Bai7.pdb

@@ -1,0 +1,5 @@
+G:\HuynhQuocKhanh-BT\HuynhQuocKhanh-BT\bin\Debug\HuynhQuocKhanh-BT.exe
+G:\HuynhQuocKhanh-BT\HuynhQuocKhanh-BT\bin\Debug\HuynhQuocKhanh-BT.pdb
+G:\HuynhQuocKhanh-BT\HuynhQuocKhanh-BT\obj\Debug\HuynhQuocKhanh-BT.csprojResolveAssemblyReference.cache
+G:\HuynhQuocKhanh-BT\HuynhQuocKhanh-BT\obj\Debug\HuynhQuocKhanh-BT.exe
+G:\HuynhQuocKhanh-BT\HuynhQuocKhanh-BT\obj\Debug\HuynhQuocKhanh-BT.pdb

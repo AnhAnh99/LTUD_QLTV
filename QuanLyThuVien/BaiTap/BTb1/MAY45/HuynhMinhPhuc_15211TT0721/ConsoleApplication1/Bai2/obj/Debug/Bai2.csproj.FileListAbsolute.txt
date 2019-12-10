@@ -1,0 +1,4 @@
+D:\HuynhMinhPhuc_15211TT0721\ConsoleApplication1\Bai2\bin\Debug\Bai2.exe
+D:\HuynhMinhPhuc_15211TT0721\ConsoleApplication1\Bai2\bin\Debug\Bai2.pdb
+D:\HuynhMinhPhuc_15211TT0721\ConsoleApplication1\Bai2\obj\Debug\Bai2.exe
+D:\HuynhMinhPhuc_15211TT0721\ConsoleApplication1\Bai2\obj\Debug\Bai2.pdb

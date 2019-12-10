@@ -1,0 +1,5 @@
+D:\NguyenLeQuocDung_B1\NguyenLeQuocDung_B1\bin\Debug\NguyenLeQuocDung_B1.exe
+D:\NguyenLeQuocDung_B1\NguyenLeQuocDung_B1\bin\Debug\NguyenLeQuocDung_B1.pdb
+D:\NguyenLeQuocDung_B1\NguyenLeQuocDung_B1\obj\Debug\NguyenLeQuocDung_B1.csprojResolveAssemblyReference.cache
+D:\NguyenLeQuocDung_B1\NguyenLeQuocDung_B1\obj\Debug\NguyenLeQuocDung_B1.exe
+D:\NguyenLeQuocDung_B1\NguyenLeQuocDung_B1\obj\Debug\NguyenLeQuocDung_B1.pdb

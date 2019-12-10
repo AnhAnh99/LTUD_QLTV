@@ -1,0 +1,4 @@
+D:\AnhNe\B6\bin\Debug\B6.exe
+D:\AnhNe\B6\bin\Debug\B6.pdb
+D:\AnhNe\B6\obj\Debug\B6.exe
+D:\AnhNe\B6\obj\Debug\B6.pdb

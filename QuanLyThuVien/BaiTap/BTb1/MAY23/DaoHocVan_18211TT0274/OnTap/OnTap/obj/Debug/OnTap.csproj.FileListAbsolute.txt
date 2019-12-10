@@ -1,0 +1,5 @@
+D:\C#\OnTap\OnTap\bin\Debug\OnTap.exe
+D:\C#\OnTap\OnTap\bin\Debug\OnTap.pdb
+D:\C#\OnTap\OnTap\obj\Debug\OnTap.csprojResolveAssemblyReference.cache
+D:\C#\OnTap\OnTap\obj\Debug\OnTap.exe
+D:\C#\OnTap\OnTap\obj\Debug\OnTap.pdb

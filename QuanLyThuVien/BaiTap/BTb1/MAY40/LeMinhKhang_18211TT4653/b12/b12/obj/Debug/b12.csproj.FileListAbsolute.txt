@@ -1,0 +1,4 @@
+D:\LeMinhKhang\b12\b12\bin\Debug\b12.exe
+D:\LeMinhKhang\b12\b12\bin\Debug\b12.pdb
+D:\LeMinhKhang\b12\b12\obj\Debug\b12.exe
+D:\LeMinhKhang\b12\b12\obj\Debug\b12.pdb

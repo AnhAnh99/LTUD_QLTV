@@ -1,0 +1,5 @@
+D:\LeMinhKhang\b8\b8\bin\Debug\b8.exe
+D:\LeMinhKhang\b8\b8\bin\Debug\b8.pdb
+D:\LeMinhKhang\b8\b8\obj\Debug\b8.csprojResolveAssemblyReference.cache
+D:\LeMinhKhang\b8\b8\obj\Debug\b8.exe
+D:\LeMinhKhang\b8\b8\obj\Debug\b8.pdb

@@ -1,0 +1,20 @@
+<p>Felet visas om du har ett antivirusprogram med HTTPS-skydd eller HTTPS-genomsökning. Antivirusprogrammet stör Chromes säkerhetsfunktioner.</p>
+    <p>Testa att stänga av antivirusprogrammet. Om sidan öppnas måste du inaktivera antivirusprogrammet när du använder säkra webbplatser.</p>
+    <p>Glöm inte att aktivera antivirusprogrammet igen efteråt.</p>
+    <h4>Steg 5: Få mer hjälp</h4>
+    <p>Om felet fortfarande visas kontaktar du webbplatsens ägare.</p><p>Felmeddelandet visas om du använder en Wi-Fi-portal där du måste logga in innan du kommer ut på internet.</p>
+    <p>Åtgärda problemet genom att klicka på <strong>Anslut</strong> på sidan du försöker öppna.</p><p>Felet visas om klockan går fel eller fel datum är inställt på datorn eller den mobila enheten.</p>
+    <p>Åtgärda felet genom att öppna klockan på enheten. Ställ in rätt tid och datum.</p>Programvara på datorn förhindrar att Chrome ansluter till internet på ett säkert sätt (endast Windows-datorer)<p>Det här felmeddelandet visas om du har programvaran Superfish på Windows-datorn.</p>
+      <p>Inaktivera programvaran tillfälligt enligt anvisningarna nedan så att du kan komma ut på internet. Du måste ha administratörsbehörighet.</p>
+      <ol>
+      <li>Klicka på <strong>Start</strong> och sök efter och välj <strong>Visa lokala tjänster</strong>
+      <li>Välj <strong>VisualDiscovery</strong>
+      <li>Under <strong>Starttyp</strong> väljer du <strong>Inaktiverad</strong>
+      <li>Under <strong>Tjänststatus</strong> klickar du på <strong>Stoppa</strong>
+      <li>Klicka på <strong>Verkställ</strong> och sedan på <strong>OK</strong>
+      <li>Besök <a href="https://support.google.com/chrome/answer/6098869">hjälpcentret för Chrome</a> om du vill veta mer om hur du tar bort programvaran från datorn permanent
+      </ol>Sidan du är på väg till kan försöka debitera digFel vid tillämpning av ursprungsprincipBlockerad i enlighet med säkerhetsprincipen på $2.Webbplatsen $2 har begärt att en säkerhetsprincip ska gälla för
+    varje begäran som ställs till den, och för närvarande ses webbplatsen
+    som osäker enligt principen.Tillbaka till säker webbplats.Servern som du är på väg till, $2, har begärt att en
+    säkerhetsprincip ska gälla varje gång den svarar på en begäran. Men den skickade
+    ingen princip, och därför går det inte att slutföra begär

@@ -1,0 +1,4 @@
+D:\ConsoleApplication1\Bai 3\bin\Debug\Bai 3.exe
+D:\ConsoleApplication1\Bai 3\bin\Debug\Bai 3.pdb
+D:\ConsoleApplication1\Bai 3\obj\Debug\Bai 3.exe
+D:\ConsoleApplication1\Bai 3\obj\Debug\Bai 3.pdb

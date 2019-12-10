@@ -1,0 +1,4 @@
+D:\baitap\cau1\cau1\bin\Debug\cau1.exe
+D:\baitap\cau1\cau1\bin\Debug\cau1.pdb
+D:\baitap\cau1\cau1\obj\Debug\cau1.exe
+D:\baitap\cau1\cau1\obj\Debug\cau1.pdb

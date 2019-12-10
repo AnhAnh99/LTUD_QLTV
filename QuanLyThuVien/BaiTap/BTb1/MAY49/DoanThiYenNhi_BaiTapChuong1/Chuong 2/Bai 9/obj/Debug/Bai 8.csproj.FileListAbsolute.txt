@@ -1,0 +1,4 @@
+D:\baitap_chuong2_3_9_2019\Chuong 2\Bai 9\bin\Debug\Bai 9.exe
+D:\baitap_chuong2_3_9_2019\Chuong 2\Bai 9\bin\Debug\Bai 9.pdb
+D:\baitap_chuong2_3_9_2019\Chuong 2\Bai 9\obj\Debug\Bai 9.exe
+D:\baitap_chuong2_3_9_2019\Chuong 2\Bai 9\obj\Debug\Bai 9.pdb

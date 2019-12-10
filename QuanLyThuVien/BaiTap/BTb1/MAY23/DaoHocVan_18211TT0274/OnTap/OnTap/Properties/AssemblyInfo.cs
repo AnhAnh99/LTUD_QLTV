@@ -1,0 +1,7 @@
+rios em geral, sem aviso prévio. O usuário pode deixar de utilizar os Serviços a qualquer momento. O usuário não necessita informar especificamente o Google quando deixar de usar os Serviços.</p>
+<p>4.4 O usuário reconhece e aceita que, se o Google desativar o acesso à sua conta, ele poderá ser impedido de acessar os Serviços, os detalhes da conta ou quaisquer arquivos ou outros conteúdos que estejam na conta.</p>
+<p><strong>5. Uso dos Serviços por parte do usuário</strong></p>
+<p>5.1 O usuário concorda em usar os Serviços somente para os fins permitidos: (a) pelos Termos; e (b) pelas leis, normas, práticas ou diretrizes geralmente aceitas nas jurisdições relevantes e aplicáveis (inclusive todas as leis em relação à exportação e importação de dados ou softwares nos Estados Unidos ou em outros países relevantes).</p>
+<p>5.2 O usuário concorda em não participar de atividades que interfiram ou interrompam o funcionamento dos Serviços (ou servidores e redes conectados aos Serviços).</p>
+<p>5.3 Exceto se tiver sido especificamente autorizado por meio de um contrato em separado firmado com o Google, o usuário concorda em não reproduzir, duplicar, copiar, vender, comercializar ou revender os Serviços para qualquer efeito.</p>
+<p>5.4 O usuário concorda que será o único responsável (e que o Google não tem qualquer responsabilidade perante o usuário ou terceiros) por qualquer violação 

@@ -1,0 +1,4 @@
+D:\BT1_LTUD_B1\B3\bin\Debug\B3.exe
+D:\BT1_LTUD_B1\B3\bin\Debug\B3.pdb
+D:\BT1_LTUD_B1\B3\obj\Debug\B3.exe
+D:\BT1_LTUD_B1\B3\obj\Debug\B3.pdb

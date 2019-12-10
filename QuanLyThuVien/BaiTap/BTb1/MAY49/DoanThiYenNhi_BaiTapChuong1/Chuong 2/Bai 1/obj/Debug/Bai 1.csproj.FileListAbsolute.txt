@@ -1,0 +1,5 @@
+D:\baitap_chuong2_3_9_2019\Chuong 2\Bai 1\bin\Debug\Bai 1.exe
+D:\baitap_chuong2_3_9_2019\Chuong 2\Bai 1\bin\Debug\Bai 1.pdb
+D:\baitap_chuong2_3_9_2019\Chuong 2\Bai 1\obj\Debug\Bai 1.csprojResolveAssemblyReference.cache
+D:\baitap_chuong2_3_9_2019\Chuong 2\Bai 1\obj\Debug\Bai 1.exe
+D:\baitap_chuong2_3_9_2019\Chuong 2\Bai 1\obj\Debug\Bai 1.pdb

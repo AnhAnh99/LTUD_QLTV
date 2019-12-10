@@ -1,0 +1,5 @@
+D:\tranquangtuan\tranquangtuan\bin\Debug\tranquangtuan.exe
+D:\tranquangtuan\tranquangtuan\bin\Debug\tranquangtuan.pdb
+D:\tranquangtuan\tranquangtuan\obj\Debug\tranquangtuan.csprojResolveAssemblyReference.cache
+D:\tranquangtuan\tranquangtuan\obj\Debug\tranquangtuan.exe
+D:\tranquangtuan\tranquangtuan\obj\Debug\tranquangtuan.pdb

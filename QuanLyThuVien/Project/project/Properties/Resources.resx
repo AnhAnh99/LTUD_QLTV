@@ -1,0 +1,118 @@
+/installerFile>
+        <installCommands>
+          <cmdline>
+            <exe>%InstallerFile%</exe>
+            <commandLineArguments>/quiet /norestart /chainingpackage %ChainingPackage%</commandLineArguments>
+            <returnCodeMappings>
+              <mapping>
+                <returnCode>-2147185721</returnCode>
+                <successDelayedRebootRequired>
+                  <detailedInformation>The installation was successful and the computer needs to be restarted.</detailedInformation>
+                </successDelayedRebootRequired>
+              </mapping>
+            </returnCodeMappings>
+          </cmdline>
+        </installCommands>
+        <uninstallCommands>
+          <cmdline>
+            <exe>%InstallerFile%</exe>
+            <commandLineArguments>/quiet /norestart /uninstall /chainingpackage %ChainingPackage%</commandLineArguments>
+            <returnCodeMappings>
+              <mapping>
+                <returnCode>-2147185721</returnCode>
+                <successDelayedRebootRequired>
+                  <detailedInformation>The installation was successful and the computer needs to be restarted.</detailedInformation>
+                </successDelayedRebootRequired>
+              </mapping>
+            </returnCodeMappings>
+          </cmdline>
+        </uninstallCommands>
+        <repairCommands>
+          <cmdline>
+            <exe>%InstallerFile%</exe>
+            <commandLineArguments>/quiet /norestart /repair /chainingpackage %ChainingPackage%</commandLineArguments>
+            <returnCodeMappings>
+              <mapping>
+                <returnCode>-2147185721</returnCode>
+                <successDelayedRebootRequired>
+                  <detailedInformation>The installation was successful and the computer needs to be restarted.</detailedInformation>
+                </successDelayedRebootRequired>
+              </mapping>
+            </returnCodeMappings>
+          </cmdline>
+        </repairCommands>
+      </installer>
+      <installer>
+        <id>13</id>
+        <languageId>zh-CHS</languageId>
+        <architectures>
+          <x86/>
+          <x64/>
+        </architectures>
+        <discoveryHint>
+          <or>
+            <discoveryHint>
+              <registry>
+                <keyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DevDiv\Windows\Servicing\14.0\toolscore\2052</keyPath>
+                <valueName>Version</valueName>
+                <minimumVersion>14.0.25029</minimumVersion>
+                <maximumVersion>14.0.25114</maximumVersion>
+              </registry>
+            </discoveryHint>
+            <discoveryHint>
+              <registry>
+                <keyPath>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\DevDiv\Windows\Servicing\14.0\toolscore\2052</keyPath>
+                <valueName>Version</valueName>
+                <minimumVersion>14.0.25029</minimumVersion>
+                <maximumVersion>14.0.25114</maximumVersion>
+              </registry>
+            </discoveryHint>
+          </or>
+        </discoveryHint>
+        <installerFile>
+          <fileSize>1933312</fileSize>
+          <installSize>2900000000</installSize>
+          <installerURL>http://go.microsoft.com/fwlink/?prd=12514&amp;pver=Dev14&amp;sbp=d14rel&amp;plcid=0x409&amp;clcid=0x409&amp;ar=25029.00&amp;sar=2015u2rcmvp-uwp&amp;o1=CHS_Win10_VSTools_iOOB&amp;o2=CHS&amp;o3=windows\vstools&amp;o4=Windows_VSTools.exe</installerURL>
+          <burnBundle>
+            <usesVisualStudioUX>true</usesVisualStudioUX>
+          </burnBundle>
+        </installerFile>
+        <installCommands>
+          <cmdline>
+            <exe>%InstallerFile%</exe>
+            <commandLineArguments>/quiet /norestart /chainingpackage %ChainingPackage%</commandLineArguments>
+            <returnCodeMappings>
+              <mapping>
+                <returnCode>-2147185721</returnCode>
+                <successDelayedRebootRequired>
+                  <detailedInformation>The installation was successful and the computer needs to be restarted.</detailedInformation>
+                </successDelayedRebootRequired>
+              </mapping>
+            </returnCodeMappings>
+          </cmdline>
+        </installCommands>
+        <uninstallCommands>
+          <cmdline>
+            <exe>%InstallerFile%</exe>
+            <commandLineArguments>/quiet /norestart /uninstall /chainingpackage %ChainingPackage%</commandLineArguments>
+            <returnCodeMappings>
+              <mapping>
+                <returnCode>-2147185721</returnCode>
+                <successDelayedRebootRequired>
+                  <detailedInformation>The installation was successful and the computer needs to be restarted.</detailedInformation>
+                </successDelayedRebootRequired>
+              </mapping>
+            </returnCodeMappings>
+          </cmdline>
+        </uninstallCommands>
+        <repairCommands>
+          <cmdline>
+            <exe>%InstallerFile%</exe>
+            <commandLineArguments>/quiet /norestart /repair /chainingpackage %ChainingPackage%</commandLineArguments>
+            <returnCodeMappings>
+              <mapping>
+                <returnCode>-2147185721</returnCode>
+                <successDelayedRebootRequired>
+                  <detailedInformation>The installation was successful and the computer needs to be restarted.</detailedInformation>
+                </successDelayedRebootRequired>
+              

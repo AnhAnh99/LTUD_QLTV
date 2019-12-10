@@ -1,0 +1,4 @@
+D:\bai-tap-lap-trinh-ung-dung\Bai4\bin\Debug\Bai4.exe
+D:\bai-tap-lap-trinh-ung-dung\Bai4\bin\Debug\Bai4.pdb
+D:\bai-tap-lap-trinh-ung-dung\Bai4\obj\Debug\Bai4.exe
+D:\bai-tap-lap-trinh-ung-dung\Bai4\obj\Debug\Bai4.pdb

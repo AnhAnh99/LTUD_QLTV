@@ -1,0 +1,5 @@
+G:\bt_ltud\BT\BT\obj\Debug\BT.csprojResolveAssemblyReference.cache
+G:\bt_ltud\BT\BT\bin\Debug\BT.exe
+G:\bt_ltud\BT\BT\bin\Debug\BT.pdb
+G:\bt_ltud\BT\BT\obj\Debug\BT.exe
+G:\bt_ltud\BT\BT\obj\Debug\BT.pdb

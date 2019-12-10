@@ -1,0 +1,5 @@
+D:\Baitap1\Baitap1\bin\Debug\Baitap1.exe
+D:\Baitap1\Baitap1\bin\Debug\Baitap1.pdb
+D:\Baitap1\Baitap1\obj\Debug\Baitap1.csprojResolveAssemblyReference.cache
+D:\Baitap1\Baitap1\obj\Debug\Baitap1.exe
+D:\Baitap1\Baitap1\obj\Debug\Baitap1.pdb

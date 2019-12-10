@@ -1,0 +1,4 @@
+D:\HuynhMinhPhuc_15211TT0721\ConsoleApplication1\Bai5\bin\Debug\Bai5.exe
+D:\HuynhMinhPhuc_15211TT0721\ConsoleApplication1\Bai5\bin\Debug\Bai5.pdb
+D:\HuynhMinhPhuc_15211TT0721\ConsoleApplication1\Bai5\obj\Debug\Bai5.exe
+D:\HuynhMinhPhuc_15211TT0721\ConsoleApplication1\Bai5\obj\Debug\Bai5.pdb

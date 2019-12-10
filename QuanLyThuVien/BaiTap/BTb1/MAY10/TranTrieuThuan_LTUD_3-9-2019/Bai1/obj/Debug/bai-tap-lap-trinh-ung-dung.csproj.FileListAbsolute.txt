@@ -1,0 +1,5 @@
+D:\bai-tap-lap-trinh-ung-dung\bai-tap-lap-trinh-ung-dung\bin\Debug\bai-tap-lap-trinh-ung-dung.exe
+D:\bai-tap-lap-trinh-ung-dung\bai-tap-lap-trinh-ung-dung\bin\Debug\bai-tap-lap-trinh-ung-dung.pdb
+D:\bai-tap-lap-trinh-ung-dung\bai-tap-lap-trinh-ung-dung\obj\Debug\bai-tap-lap-trinh-ung-dung.csprojResolveAssemblyReference.cache
+D:\bai-tap-lap-trinh-ung-dung\bai-tap-lap-trinh-ung-dung\obj\Debug\bai-tap-lap-trinh-ung-dung.exe
+D:\bai-tap-lap-trinh-ung-dung\bai-tap-lap-trinh-ung-dung\obj\Debug\bai-tap-lap-trinh-ung-dung.pdb

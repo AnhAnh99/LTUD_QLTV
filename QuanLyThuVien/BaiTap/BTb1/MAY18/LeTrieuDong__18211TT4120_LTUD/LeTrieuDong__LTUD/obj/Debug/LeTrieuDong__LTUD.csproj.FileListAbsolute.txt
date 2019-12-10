@@ -1,0 +1,5 @@
+D:\LeTrieuDong__LTUD\LeTrieuDong__LTUD\obj\Debug\LeTrieuDong__LTUD.csprojResolveAssemblyReference.cache
+D:\LeTrieuDong__LTUD\LeTrieuDong__LTUD\bin\Debug\LeTrieuDong__LTUD.exe
+D:\LeTrieuDong__LTUD\LeTrieuDong__LTUD\bin\Debug\LeTrieuDong__LTUD.pdb
+D:\LeTrieuDong__LTUD\LeTrieuDong__LTUD\obj\Debug\LeTrieuDong__LTUD.exe
+D:\LeTrieuDong__LTUD\LeTrieuDong__LTUD\obj\Debug\LeTrieuDong__LTUD.pdb

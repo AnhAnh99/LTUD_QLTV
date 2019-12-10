@@ -1,0 +1,5 @@
+D:\HuynhPhatDat_17211TT0293\HuynhPhatDat_17211TT0293\obj\Debug\HuynhPhatDat_17211TT0293.csprojResolveAssemblyReference.cache
+D:\HuynhPhatDat_17211TT0293\HuynhPhatDat_17211TT0293\bin\Debug\HuynhPhatDat_17211TT0293.exe
+D:\HuynhPhatDat_17211TT0293\HuynhPhatDat_17211TT0293\bin\Debug\HuynhPhatDat_17211TT0293.pdb
+D:\HuynhPhatDat_17211TT0293\HuynhPhatDat_17211TT0293\obj\Debug\HuynhPhatDat_17211TT0293.exe
+D:\HuynhPhatDat_17211TT0293\HuynhPhatDat_17211TT0293\obj\Debug\HuynhPhatDat_17211TT0293.pdb

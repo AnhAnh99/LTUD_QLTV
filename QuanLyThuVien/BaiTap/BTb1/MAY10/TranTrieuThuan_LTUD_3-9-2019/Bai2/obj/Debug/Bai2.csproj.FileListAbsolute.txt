@@ -1,0 +1,2 @@
+D:\bai-tap-lap-trinh-ung-dung\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\bai-tap-lap-trinh-ung-dung\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
